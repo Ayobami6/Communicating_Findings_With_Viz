@@ -1,4 +1,4 @@
-# (2019 Nigerian Import Data Exploratio)
+# (2019 Nigerian Import Data Exploration)
 ## by (Ayobami Alaran)
 
 
