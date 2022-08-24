@@ -11,10 +11,10 @@ Explore the dataset visually to confirm the veracity of the dataset so as to obt
 >- Assess and clean the dataset
 >- Explore the structure of the dataset visually
 >- Perform univariate, bi-variate and Multi-variate visual exploration on the dataset to obtain insights 
-Click the Analysis link for the analysis [click here!](https://github.com/Ayobami6/Communicating_Findings_With_Viz/blob/main/Part_I_exploration_template.ipynb)
-<ul>
-<li><a href="#analysis">Analysis</a></li>
-</ul>
+For the analysis [click here!](https://github.com/Ayobami6/Communicating_Findings_With_Viz/blob/main/Exploration.ipynb)
+
+For the slide report [click here]((https://github.com/Ayobami6/Communicating_Findings_With_Viz/blob/main/Slides.html))
+
 
 ## Dataset
 
