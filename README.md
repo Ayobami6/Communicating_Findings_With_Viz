@@ -11,11 +11,10 @@ Explore the dataset visually to confirm the veracity of the dataset so as to obt
 >- Assess and clean the dataset
 >- Explore the structure of the dataset visually
 >- Perform univariate, bi-variate and Multi-variate visual exploration on the dataset to obtain insights 
-Click the Analysis link for the analysis
+Click the Analysis link for the analysis [click here!](https://github.com/Ayobami6/Communicating_Findings_With_Viz/blob/main/Part_I_exploration_template.ipynb)
 <ul>
 <li><a href="#analysis">Analysis</a></li>
 </ul>
-<a id='analysis'></a>
 
 ## Dataset
 
@@ -30,7 +29,7 @@ For more info on the dataset[click here!](https://www.kaggle.com/datasets/godwin
 ![images.jpg](Charts/barchart_2.png)
 
 >- From the exploration it was revealed that there is a strong positive relationship between cost of freight and fob val after using logarithmic scale for x and y axis, that is the higher the cost of freight the higher the fob value, however further analysis can be done to test the significance of the correlation.
-![images.jpg](Charts/COF_r_FOB.png)
+![images.jpg](Charts/Scatter.png)
 
 
 ## Key Insights for Presentation
