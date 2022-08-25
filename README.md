@@ -13,7 +13,7 @@ Explore the dataset visually to confirm the veracity of the dataset so as to obt
 >- Perform univariate, bi-variate and Multi-variate visual exploration on the dataset to obtain insights 
 For the analysis [click here!](https://github.com/Ayobami6/Communicating_Findings_With_Viz/blob/main/Exploration.ipynb)
 
-For the slide report [click here]((https://github.com/Ayobami6/Communicating_Findings_With_Viz/blob/main/Slides.html))
+For the slide report [click here](https://github.com/Ayobami6/Communicating_Findings_With_Viz/blob/main/Slides.html)
 
 
 ## Dataset
